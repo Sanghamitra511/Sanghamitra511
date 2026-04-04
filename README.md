@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+Kafka;Building+AI-Powered+Backend+Systems;4.8+Years+of+Shipping+Real+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sanghamitra+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+Kafka;Building+AI-Powered+Backend+Systems;4+Years+of+Shipping+Real+Products)](https://git.io/typing-svg)
 
 <br/>
 
