@@ -14,33 +14,45 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
+
+Backend developer who thinks in events, not HTTP calls. I build systems where services talk to each other instead of waiting in line — currently teaching them to think a little too, with AI and LLM integrations.
+
+**5 years** · Java & Spring Boot · Kafka · Bangalore, India 🇮🇳
+
+<details>
+<summary>🧩 view as code</summary>
 
 ```java
 @Component
 public class AboutMe {
 
-    private final String name        = "SANGHAMITRA";
-    private final String role        = "Senior Java Backend Developer";
-    private final int    experience  = 4; // ~5 years
-    private final String location    = "Bangalore, India 🇮🇳";
+    private final String  name       = "Sanghamitra Goswami";
+    private final String  role       = "Senior Java Backend Developer";
+    private final double  experience = 5.0; // years, and counting
+    private final String  location   = "Bangalore, India 🇮🇳";
+    private final String  philosophy = "If it can react to an event, it probably should.";
 
     private final String[] currentlyBuilding = {
-        "AI-powered microservices with LLM integrations",
-        "Event-driven architectures using Apache Kafka",
-        "RAG pipelines with LangChain4j + MongoDB Atlas"
+        "Event-driven microservices with Apache Kafka",
+        "AI-powered services with LLM integrations",
+        "RAG pipelines using LangChain4j + MongoDB Atlas"
     };
 
     private final String[] learning = {
         "LLM / Generative AI integrations",
-        "LangChain4j  ·  LlamaIndex",
-        "Vector databases  ·  RAG architectures",
-        "AI Agents & Orchestration"
+        "LangChain4j · LlamaIndex",
+        "Vector databases · RAG architectures",
+        "AI agents & orchestration"
     };
 
-    private final String funFact = "I think in events, not HTTP calls 😄";
+    public String currentStatus() {
+        return "Probably tracing a bug through nine Kafka topics, coffee in hand.";
+    }
 }
 ```
+
+</details>
 
 ---
 
